@@ -287,7 +287,7 @@ Cookie是会话技术,将用户的信息保存到浏览器的对象.
 
 死锁检测
 
-（死锁原因及如何避免更深理解移步：http://blog.csdn.net/ls5718/article/details/51896159）
+（死锁原因及如何避免更深理解移步：http://blog.csdn.net/ls5718/article/details/51896159
 
 # 进程和线程区别
 
